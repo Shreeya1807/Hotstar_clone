@@ -1,7 +1,7 @@
 # Hotstar_clone
 
 ## Movie Catalog
-This is a simple web application that showcases a movie carousel and video cards. The carousel displays information about different movies, while the video cards display short clips from those movies.
+This is a simple web application that showcases a movie carousel and video cards. The carousel shows information about different movies, while the video cards display short clips from those movies.
 
 ## Getting Started
 To get started, simply download the source code or clone the repository. The application does not require any additional dependencies or installations.
